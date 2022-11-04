@@ -1,4 +1,8 @@
-# finances
+# Finances
+This project is a financial organizer in which the user can register their finances and organize them by date and category. To log in, just use a Google account. The project is available in [Finances](https://finances.viniciusschneiderdeveloper.com/).
+
+## Environment
+Configure o seguinte arquivo com sua conexão do Firestore Database `src\plugins\firebase.ts`
 
 ## Project setup
 ```
